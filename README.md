@@ -1,3 +1,6 @@
+Note: SSS.ino is also required, can be found at http://forum.arduino.cc/index.php?topic=251764
+
+
 OpenCTD Introduction and Build Guide
 =======
 
